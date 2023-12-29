@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UASmobile</string>
+    <string name="bookmark">bookmark</string>
+    <string name="home">home</string>
+    <string name="profile">profile</string>
+    <string name="meet_our_members">Meet Our Members</string>
+    <string name="logo_list">Logo List</string>
+    <string name="add_to_favorite">Add to Favorite</string>
+    <string name="ticker">Ticker:</string>
+    <string name="name">Name:</string>
+    <string name="favorite_logo">Favorite Logo</string>
+    <string name="zaki">Zaki Afwanul Hilmi Lubis</string>
+    <string name="zaki_nim">211401010</string>
+    <string name="johana">Johana Paskalina Sihotang</string>
+    <string name="johana_nim">211401035</string>
+    <string name="saffa">Muhammad Saffa Wardana</string>
+    <string name="saffa_nim">211401056</string>
+    <string name="stephen">Stephen J. Rusli</string>
+    <string name="stephen_nim">211401059</string>
+</resources>
